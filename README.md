@@ -4,7 +4,8 @@ There are two part in this assignment:
 1. Simple social model and topics in Neo4j 
 - Load baseball data from neo4j database which includes
 -- Node Labels:
-  -- Team: Core information loaded from Lahman 2017
+
+-- Team: Core information loaded from Lahman 2017
 --- Player: Core information loaded from Lahman 2017
 --- Fan: New entity representing a baseball fan.
 --- Comment: A Fan made a comment on a team or player.
